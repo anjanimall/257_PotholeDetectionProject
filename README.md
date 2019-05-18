@@ -1,5 +1,10 @@
 # 257 Pothole Detection Project
-Group 10
+#Group 10
+Archana Yadawa
+Divya Sidhabathuni
+Sweety Sojrani
+Subhanjani Mallampati
+
 
 Project Report - 257 Final Report.pdf \
 Project Presentation - CMPE257_Group10.pptx 
