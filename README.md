@@ -1,4 +1,4 @@
-# CMPE257 Pothole Detection Project
+# CMPE-257 Pothole Detection Project
 # Group 10
 Archana Yadawa\
 Divya Sidhabathuni\
