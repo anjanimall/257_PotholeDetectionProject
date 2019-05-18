@@ -1,8 +1,8 @@
 # 257 Pothole Detection Project
 #Group 10
-Archana Yadawa
-Divya Sidhabathuni
-Sweety Sojrani
+Archana Yadawa\
+Divya Sidhabathuni\
+Sweety Sojrani\
 Subhanjani Mallampati
 
 
