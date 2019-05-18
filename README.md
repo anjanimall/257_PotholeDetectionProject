@@ -6,7 +6,7 @@ Sweety Sojrani\
 Subhanjani Mallampati
 
 
-### Project Report - 257 Final Report.pdf \
+### Project Report - 257 Final Report.pdf
 ### Project Presentation - CMPE257_Group10.pptx 
 
 ## Project source code: 
