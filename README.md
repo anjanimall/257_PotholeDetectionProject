@@ -1,5 +1,5 @@
 # 257 Pothole Detection Project
-#Group 10\
+# Group 10
 Archana Yadawa\
 Divya Sidhabathuni\
 Sweety Sojrani\
